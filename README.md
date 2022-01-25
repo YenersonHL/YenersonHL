@@ -49,7 +49,8 @@
 <h1>hobbies</h1>
 <ul>
     <li>Bailador de breack-dance</li>
-    <li>Me gusta el basketball aun que no lo practico :'(</li>
-    <li>Me gusta la animación gráfica</li>
-    <li>Me gusta dibujar</li>
+    <li>Deportes que me gustan ver el basketball aun que no lo practico :'(</li>
+    <li>Animacion grafica</li>
+    <li>Dibujador digital</li>
+    <li>Juagador de Lol y warzone</li>
 </ul>
