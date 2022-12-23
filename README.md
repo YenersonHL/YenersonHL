@@ -17,11 +17,11 @@
     </tr>
 </table>
 <ul>
-    <li>Mi nombre completo es <strong>Yenerson Hernandez Lopez</strong> soy de 🇨🇴 COLOMBIA. me apasiona el diseño y el desarrollo de aplicaciones, web, móvil, escritorio con html, css y javascript</li>
+    <li>Mi nombre completo es <strong>Yenerson Jesus Hernandez Lopez</strong> soy de 🇨🇴 COLOMBIA. me apasiona el diseño y el desarrollo de aplicaciones, web, móvil, escritorio con html, css y javascript</li>
     <li>Creador de contenido. visita mi canal de youtube donde encontraras tutoriales y recursos para tus proyectos o aprendizaje</li>
 </ul>
 <h1>Skills</h1>
-<p>Diseñador y programador front-end, con conocimiento de las siguientes tecnologías.</p>
+<p>Diseñador UI/UX y desarrollador front-end, con conocimiento de las siguientes tecnologías.</p>
 <table>
     <tr>
         <td>html</td>
@@ -32,7 +32,6 @@
         <td>Node</td>
         <td>Vue</td>
         <td>Angular</td>
-        <td>php</td>
     </tr>
     <tr>
         <td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></td>
@@ -43,14 +42,13 @@
         <td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></td>
         <td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></td>
         <td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /></td>
-        <td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></td>
     </tr>
 </table>
 <h1>hobbies</h1>
 <ul>
-    <li>Bailador de breack-dance</li>
+    <li>love breack-dance</li>
     <li>Deportes que me gustan ver el basketball aun que no lo practico :'(</li>
     <li>Animacion grafica</li>
-    <li>Dibujador digital</li>
-    <li>Juagador de Lol y warzone</li>
+    <li>Creativo digital</li>
+    <li>Gamer lol | warzone</li>
 </ul>
